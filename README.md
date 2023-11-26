@@ -21,7 +21,7 @@ Ce projet Java Swing implémente un annuaire téléphonique interactif. L'applic
 1. **Configuration de la Base de Données:**
    - Assurez-vous que MySQL Server est en cours d'exécution.
    - Créez une base de données nommée "gtele" avec un utilisateur "root" (mot de passe vide).
-   - Exécutez le script SQL fourni (`gtele.sql`) pour créer la table nécessaire (`clientname`).
+   - Exécutez le script SQL fourni (`gtele.sql`) .
 
 2. **Configuration du Projet:**
    - Assurez-vous d'avoir le JDK installé sur votre machine.
